@@ -52,16 +52,6 @@
 </p>
 
 
-
-## ⌛ Coding Activity & Schedule
-
-<!--START_SECTION:readme-stats-->
-<!--END_SECTION:readme-stats-->
-
-*(this section fills in automatically after the GitHub Action below runs once — see setup)*
-
----
-
 ## 📬 Connect with Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://bhavyaresume.vercel.app)
