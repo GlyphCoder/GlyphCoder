@@ -51,10 +51,7 @@
   <img src="https://streak-stats.demolab.com/?user=GlyphCoder&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GlyphCoder&show_icons=true&theme=tokyonight&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlyphCoder&layout=compact&theme=tokyonight&hide_border=true" height="165">
-</p>
+
 
 ## ⌛ Coding Activity & Schedule
 
@@ -71,4 +68,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavyamshah/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhavya.mehul.shah@gmail.com)
 
-<p align="center"><i>Open to internships / entry-level roles in AI/ML and full-stack development.</i></p>
+
